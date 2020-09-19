@@ -1,0 +1,27 @@
+{
+  "name": "the-assorted-geeks",
+  "version": "1.0.0",
+  "description": "The Assorted Geeks Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/the-assorted-geeks/the-assorted-geeks-website.git"
+  },
+  "keywords": [
+    "The",
+    "Assorted",
+    "Geeks"
+  ],
+  "author": "the-assorted-geeks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-assorted-geeks/the-assorted-geeks-website/issues"
+  },
+  "homepage": "https://github.com/the-assorted-geeks/the-assorted-geeks-website#readme",
+  "dependencies": {
+    "webpack-server": "^0.1.2"
+  }
+}
